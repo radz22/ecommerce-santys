@@ -1,0 +1,166 @@
+@media (max-width: 1100px) {
+    .footer-top-data img{
+        width: 30px;
+    }
+
+    .footer-top-data h2{
+       font-size: 27px;
+    }
+  
+    /* contact */
+    .foot h4{
+        font-size: 22px;
+    }
+
+    .foot address{
+        font-size: 15px;
+    }
+
+    .foot  address{
+        font-size: 15px;
+    }
+
+    .foot .num,.gmail{
+        font-size: 15px;
+    }
+
+    /* information */
+    
+    .foot a{
+       font-size: 15px;
+    }
+
+}
+
+
+@media (max-width: 830px) {
+    /* footer top */
+    .footer-top-data img{
+        width: 24px;
+    }
+
+    .footer-top-data h2{
+       font-size: 22px;
+    }
+       /* contact */
+       .foot h4{
+        font-size: 20px;
+    }
+
+    .foot address{
+        font-size: 14px;
+    }
+
+    .foot  address{
+        font-size: 14px;
+    }
+
+    .foot .num,.gmail{
+        font-size: 14px;
+    }
+
+       /* information */
+    
+       .foot a{
+        font-size: 14px;
+     }
+ 
+}
+
+
+@media (max-width: 630px) {
+    .footer-top-data img{
+        width: 20px;
+    }
+
+    .footer-top-data h2{
+       font-size: 16px;
+    }
+  
+     /* footer contact */
+     .foot h4{
+        font-size: 18px;
+    }
+  
+    
+    .foot address{
+        font-size: 13px;
+    }
+
+    .foot  address{
+        font-size: 13px;
+    }
+
+    .foot .num,.gmail{
+        font-size: 13px;
+    }
+
+    .social-icons{
+        gap: 10px;
+    }
+    .social-icons svg{
+        width: 19px;
+    }
+
+
+    /* information */
+    
+    .foot a{
+        font-size: 13px;
+     }
+
+
+}
+
+
+
+@media (max-width: 520px) {
+    .footer-top-data img{
+        width: 18px;
+    }
+
+    .footer-top-data h2{
+       font-size: 14px;
+      
+    }
+
+    
+     /* footer contact */
+     .foot h4{
+        font-size: 17px;
+    }
+
+    .foot address{
+        font-size: 11px;
+    }
+
+    .foot  address{
+        font-size: 11px;
+    }
+
+    .foot .num{
+        font-size: 11px;
+    }
+
+    .foot .gmail{
+        font-size: 10px;
+    }
+
+    .social-icons{
+        gap: 8px;
+    }
+    .social-icons svg{
+        width: 16px;
+    }
+
+    /* infomartion*/
+    .foot a{
+        font-size: 11px;
+     }
+
+     /* footer down*/
+      .down p{
+        font-size: 14px;
+     }
+}
+

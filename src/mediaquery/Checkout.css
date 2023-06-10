@@ -1,0 +1,201 @@
+
+
+@media (max-width: 1100px){
+/* checkout left*/
+
+    .checkout-left .website-name{
+        font-size: 32px;
+    }
+    
+    
+    .checkout-left .breadcrumb-item{
+        font-size: 14px;
+    }
+
+    .checkout-left .title{
+        font-size: 20px;
+    }
+
+    .checkout-left .user-details{
+        font-size: 15px;
+    }
+    
+    .checkout-left .form-control{
+        font-size: 14.5px;
+    }
+
+    .checkout-left .return{
+        font-size: 14.3px;
+    }
+
+    .checkout-left .buttonn{
+        font-size: 14.3px;
+        padding: 13px 25px;
+    }
+
+    /* checkout right*/
+ .checkout-images{
+    width: 40% !important;
+ }
+    .checkout-content h5.title{
+        font-size: 16px;
+    }
+
+    .checkout-content p.description, .sub, p.usd{
+        font-size: 13px;
+    }
+
+  .checkouts .price,  .checkouts .prices{
+        font-size: 14px;
+    }
+}
+
+@media (max-width: 830px){
+    /* checkout left*/
+
+    .checkout-left .website-name{
+        font-size: 26px;
+    }
+    
+    
+    .checkout-left .breadcrumb-item{
+        font-size: 13px;
+    }
+
+    .checkout-left .title{
+        font-size: 18px;
+    }
+
+    .checkout-left .user-details{
+        font-size: 14px;
+    }
+    
+    .checkout-left .form-control{
+        font-size: 13px;
+    }
+
+    .checkout-left .return{
+        font-size: 13.5px;
+    }
+
+    .checkout-left .buttonn{
+        font-size: 13.5px;
+        padding: 12px 20px;
+    }
+
+    /* checkout right*/
+ .checkout-images{
+    width: 50% !important;
+ }
+    .checkout-content h5.title{
+        font-size: 14px;
+    }
+
+    .checkout-content p.description, .sub, p.usd{
+        font-size: 12px;
+    }
+
+  .checkouts .price{
+        font-size: 13px;
+    }
+}
+
+
+@media (max-width: 630px){
+    /* checkout left*/
+
+    .checkout-left .website-name{
+        font-size: 23px;
+    }
+    
+    
+    .checkout-left .breadcrumb-item{
+        font-size: 12px;
+    }
+
+    .checkout-left .title{
+        font-size: 16px;
+    }
+
+    .checkout-left .user-details{
+        font-size: 13px;
+    }
+    
+    .checkout-left .form-control{
+        font-size: 12px;
+    }
+
+    .checkout-left .return{
+        font-size: 12.6px;
+    }
+
+    .checkout-left .buttonn{
+        font-size: 12.6px;
+        padding: 12px 18px;
+    }
+
+    /* checkout right*/
+ .checkout-images{
+    width: 180px !important;
+ }
+    .checkout-content h5.title{
+        font-size: 12px;
+    }
+
+    .checkout-content p.description, .sub, p.usd{
+        font-size: 12px;
+    }
+
+  .checkouts .price{
+        font-size: 12px;
+    }
+}
+
+@media (max-width: 520px){
+    .checkout-left .website-name{
+        font-size: 20px;
+    }
+    
+    
+    .checkout-left .breadcrumb-item{
+        font-size: 11.2px;
+    }
+
+    .checkout-left .title{
+        font-size: 14px;
+    }
+
+    .checkout-left .user-details{
+        font-size: 12px;
+    }
+    
+    .checkout-left .form-control{
+        font-size: 11.4px;
+    }
+
+    .checkout-left .return{
+        font-size: 12px;
+    }
+
+    .checkout-left .buttonn{
+        font-size: 11px;
+        padding: 12px 15px;
+    }
+
+    /* checkout right*/
+ .checkout-images{
+    width: 140px !important;
+ }
+    .checkout-content h5.title{
+        font-size: 10.5px;
+    }
+
+    .checkout-content p.description, .sub, p.usd{
+        font-size: 10.5px;
+    }
+
+  .checkouts .price{
+        font-size: 10.5px;
+    }
+
+}

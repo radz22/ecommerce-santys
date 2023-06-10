@@ -1,0 +1,41 @@
+
+@media (max-width: 830px){
+    .contact-inner-wrapper .contact-title{
+font-size: 22px;
+}
+
+.contact-inner-wrapper .form-control{
+    font-size:14px;
+}
+
+.contact-inner-wrapper address, .contact-inner-wrapper a, .contact-inner-wrapper p{
+    font-size: 14px;
+}
+
+.contact-inner-wrapper .button{
+    font-size: 12px;
+    padding: 13px 25px;
+
+}
+}
+
+@media (max-width: 630px){
+
+    .contact-inner-wrapper .contact-title{
+        font-size: 19px;
+        }
+        
+        .contact-inner-wrapper .form-control{
+            font-size:12px;
+        }
+        
+        .contact-inner-wrapper address, .contact-inner-wrapper a, .contact-inner-wrapper p{
+            font-size: 12px;
+        }
+        
+        .contact-inner-wrapper .button{
+            font-size: 11px;
+            padding: 11px 20px;
+        
+        }
+}

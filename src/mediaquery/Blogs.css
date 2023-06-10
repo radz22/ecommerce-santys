@@ -1,0 +1,20 @@
+/*blogs */
+
+
+
+
+
+@media (max-width: 630px){
+    .blog-wrapper .row .blogss{
+        width: 25%;
+    }
+
+
+}
+
+
+@media (max-width: 520px){
+    .blog-wrapper .row .col-6{
+        width: 100%;
+    }
+}

@@ -1,0 +1,52 @@
+@media (max-width: 830px){
+    .aut-card h3{
+        font-size: 16px;
+    }
+
+    .aut-card .form-control{
+        font-size:13px;
+    }
+
+    .aut-card .forgot{
+        font-size: 13.3px;
+    }
+
+    .aut-card .button{
+        font-size: 13px;
+        padding: 13px 25px;
+    }
+
+    .aut-card .gap-30{
+        gap: 30px;
+    }
+}
+
+
+@media (max-width: 630px){
+   
+
+    .aut-card .form-control{
+        font-size:12px;
+    }
+
+    .aut-card .forgot{
+        font-size: 13px;
+    }
+
+    .aut-card .button{
+        font-size: 12px;
+        padding: 12px 23px;
+    }
+
+     
+}
+
+@media (max-width: 630px){
+   
+
+  
+
+    .aut-card .gap-30{
+        gap: 20px;
+    }
+}

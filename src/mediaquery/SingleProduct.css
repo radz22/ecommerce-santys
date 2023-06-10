@@ -1,0 +1,230 @@
+/* SingleProduct*/
+
+@media (max-width: 1100px){
+    .main-product-details .border-bottom .title{
+     font-size: 17px;
+    }
+
+    .main-product-details .border-bottom .price{
+        font-size: 18px;
+    }
+
+    .main-product-details-content .type, .main-product-details-content span, .main-product-details-content .tags,
+    .main-product-details-content .avail, .main-product-details-content .size, .main-product-details-content .quan{
+        font-size: 17px;
+    }
+
+    .main-product-details .catego{
+        font-size:17px;
+    }
+
+    
+}
+
+
+
+
+
+
+
+
+@media (max-width: 830px){
+    .main-product-details{
+      position: relative;
+      top: -1px;
+    }
+    .main-prodcut-wrapper .col-6{
+        width: 100%;
+    }
+
+    .main-prodcut-wrapper .main-product-images{
+        width: 60%;
+    }
+
+    /* */
+
+    .main-product-details .border-bottom .title{
+        font-size: 16px;
+       }
+   
+       .main-product-details .border-bottom .price{
+           font-size: 17px;
+       }
+   
+       .main-product-details-content .type, .main-product-details-content span, .main-product-details-content .tags,
+       .main-product-details-content .avail, .main-product-details-content .size, .main-product-details-content .quan{
+           font-size: 16px;
+       }
+   
+       .main-product-details .catego{
+           font-size:16px;
+       }
+
+       .main-product-details .button,   .main-product-details .buttons{
+        font-size: 13px;
+        padding: 13px 25px;
+        
+       }
+
+       .main-product-details-content .sizes{
+        font-size: 14px;
+       }
+    
+       .main-product-details .cartss {
+        gap: 5px;
+       }
+
+       /*description */
+
+       .description-wrapper h4, .reviews-wrapper h3{
+        font-size: 23px;
+    }
+    
+
+     /*reviews-wrapper */
+    
+     .reviews-wrapper .button{
+        font-size: 13px;
+        padding: 13px 25px;
+     }
+     
+
+
+}
+
+@media (max-width: 630px){
+     /* */
+
+     .main-product-details .border-bottom .title{
+        font-size: 15px;
+       }
+   
+       .main-product-details .border-bottom .price{
+           font-size: 16px;
+       }
+   
+       .main-product-details-content .type, .main-product-details-content span, .main-product-details-content .tags,
+       .main-product-details-content .avail, .main-product-details-content .size, .main-product-details-content .quan{
+           font-size: 15px;
+       }
+   
+       .main-product-details .catego{
+           font-size:15px;
+       }
+
+       .main-product-details .button,   .main-product-details .buttons{
+        font-size: 12px;
+        padding: 12px 22px;
+        
+       }
+
+       .main-product-details-content .sizes{
+        font-size: 13px;
+       }
+    
+       .main-product-details .cartss {
+        gap: 10px;
+       }
+
+       /*description */
+
+       .description-wrapper h4, .reviews-wrapper h3{
+        font-size: 21px;
+    }
+
+    .description-wrapper p{
+        font-size: 13px;
+    }
+    
+
+     /*reviews-wrapper */
+    
+     .reviews-wrapper .button{
+        font-size: 13px;
+        padding: 13px 25px;
+     }
+
+    .reviews-wrapper a , .reviews-wrapper .review-form h4{
+        font-size: 14px;
+    }  
+     
+    .review-form .form-control {
+        font-size: 14px;
+    }
+
+    .reviews h6{
+        font-size: 15px;
+    }
+
+    .reviews p{
+        font-size: 13px;
+    }
+}
+
+@media (max-width: 5200px){
+
+    .main-product-details .border-bottom .title{
+        font-size: 14px;
+       }
+   
+       .main-product-details .border-bottom .price{
+           font-size: 15px;
+       }
+   
+       .main-product-details-content .type, .main-product-details-content span, .main-product-details-content .tags,
+       .main-product-details-content .avail, .main-product-details-content .size, .main-product-details-content .quan{
+           font-size: 14px;
+       }
+   
+       .main-product-details .catego{
+           font-size:14px;
+       }
+
+       .main-product-details .button,   .main-product-details .buttons{
+        font-size: 12px;
+        padding: 11px 20px;
+        
+       }
+
+       .main-product-details-content .sizes{
+        font-size: 12px;
+       }
+    
+       .main-product-details .cartss {
+        gap: 10px;
+       }
+
+       /*description */
+
+       .description-wrapper h4, .reviews-wrapper h3{
+        font-size: 16px;
+    }
+
+    .description-wrapper p{
+        font-size: 12px;
+    }
+    
+
+     /*reviews-wrapper */
+    
+     .reviews-wrapper .button{
+        font-size: 12px;
+        padding: 12px 20px;
+     }
+
+    .reviews-wrapper a , .reviews-wrapper .review-form h4{
+        font-size: 13px;
+    }  
+     
+    .review-form .form-control {
+        font-size: 13px;
+    }
+
+    .reviews h6{
+        font-size: 14px;
+    }
+
+    .reviews p{
+        font-size: 14px;
+    }
+}
